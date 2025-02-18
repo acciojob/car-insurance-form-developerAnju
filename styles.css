@@ -1,2 +1,22 @@
 
 /* Your CSS Code here. */
+form div{
+	margin-bottom: 10px;
+}
+input{
+	height: 20px;
+	width: 60%
+}
+.gender{
+	display: flex;
+	align-items:start;
+}
+input[type="radio"]{
+	width: auto;
+}
+input[type="date"]{
+	padding: 5px 8px;
+}
+select{
+	height: 25px;
+}
